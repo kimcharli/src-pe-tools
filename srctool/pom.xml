@@ -51,7 +51,7 @@
   	<dependency>
   		<groupId>log4j</groupId>
   		<artifactId>log4j</artifactId>
-  		<version>1.2.14</version>
+  		<version>2.12.1</version>
   	</dependency>
   	<dependency>
   		<groupId>net.juniper.smgt</groupId>
